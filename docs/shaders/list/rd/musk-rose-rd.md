@@ -1,7 +1,7 @@
 ---
 name: 'Musk Rose RD'
 tags: ["Android", "Windows"]
-banner: '/renderdragon-shaders/images/musk-rose-rd-0.jpg'
+banner: '/renderdragon-apk/images/musk-rose-rd-0.jpg'
 last_updated: 2023-07-06
 ---
 
@@ -9,24 +9,24 @@ last_updated: 2023-07-06
 
 <Gallery
 :images="[
-    '/renderdragon-shaders/images/musk-rose-rd-0.jpg',
-    '/renderdragon-shaders/images/musk-rose-rd-1.jpg',
-    '/renderdragon-shaders/images/musk-rose-rd-2.jpg',
-    '/renderdragon-shaders/images/musk-rose-rd-3.jpg',
+    '/renderdragon-apk/images/musk-rose-rd-0.jpg',
+    '/renderdragon-apk/images/musk-rose-rd-1.jpg',
+    '/renderdragon-apk/images/musk-rose-rd-2.jpg',
+    '/renderdragon-apk/images/musk-rose-rd-3.jpg',
     ]"
 />
 
-### Description
+### 说明
 
-Musk Rose RD is a shader dedicated for beauty.
+Musk Rose RD 是一款着色器, 为美丽而思量.
 
 * Source code: [musk_rose_rd](https://github.com/Rinloid/musk_rose_rd)
 * License: CC0-1.0 License
-* Supported platforms: Android, Windows
+* 支持的平台: Android, Windows
 
-### Download
+### 下载
 
-Supported Minecraft versions: 1.20+
+**支持的版本:** Minecraft versions: 1.20+
 
 ::: tip v4.0
 

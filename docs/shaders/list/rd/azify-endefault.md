@@ -1,7 +1,7 @@
 ---
 name: 'AziFy EnDefault'
 tags: ["Android"]
-banner: '/renderdragon-shaders/images/azify-endefault-0.jpg'
+banner: '/renderdragon-apk/images/azify-endefault-0.jpg'
 last_updated: 2023-07-13
 ---
 
@@ -9,30 +9,30 @@ last_updated: 2023-07-13
 
 <Gallery
 :images="[
-    '/renderdragon-shaders/images/azify-endefault-0.jpg',
-    '/renderdragon-shaders/images/azify-endefault-1.jpg',
-    '/renderdragon-shaders/images/azify-endefault-2.jpg',
-    '/renderdragon-shaders/images/azify-endefault-3.jpg',
-    '/renderdragon-shaders/images/azify-endefault-4.jpg',
+    '/renderdragon-apk/images/azify-endefault-0.jpg',
+    '/renderdragon-apk/images/azify-endefault-1.jpg',
+    '/renderdragon-apk/images/azify-endefault-2.jpg',
+    '/renderdragon-apk/images/azify-endefault-3.jpg',
+    '/renderdragon-apk/images/azify-endefault-4.jpg',
     ]"
 />
 
-### Description
+### 说明
 
 
-Azify EnDefault (Enhanced Default) shader combines performance with good visual enhancements, ensuring a seamless and captivating gameplay experience for all Minecraft enthusiasts.
+Azify EnDefault (Enhanced Default) 着色器将性能与良好的视觉增强相结合, 确保为所有 Minecraft 爱好者提供无缝且引人入胜的游戏体验.
 
-* Supported platforms: Android
-* Website: [aziangeloprojects.blogspot.com/azify-endefault](https://aziangeloprojects.blogspot.com/2023/07/azify-endefault-v120.html)
+* 支持的平台: Android
+* 网站: [aziangeloprojects.blogspot.com/azify-endefault](https://aziangeloprojects.blogspot.com/2023/07/azify-endefault-v120.html)
 
-### Downloads
+### 下载
 
-Supported Minecraft versions: 1.20+
+**支持的版本:** Minecraft versions: 1.20+
 
-~ Standard: All Features  
-~ Medium 1: No Glossy Effect  
-~ Medium 2: No Waving Effect  
-~ Low: No Fake Terrain Reflection, Waving Effect, Glossy Effect  
+~ Standard:所有功能 
+~ Medium 1:无光泽效果 
+~ Medium 2:无波浪效果 
+~ Low:无假地形反射, 波浪效果, 光泽效果 
 
 ::: tip v1.2.0 <Badge type="warning" text="Monetized links: Linkvertise"/>
 

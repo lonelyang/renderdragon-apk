@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { enConfig } from './locales/en.ts'
-import { koConfig } from './locales/ko.ts'
+import { zhConfig } from './locales/zh.ts'
 import { base } from './meta.ts'
 
 export default defineConfig({
@@ -10,13 +10,13 @@ export default defineConfig({
   themeConfig: {
     logo: '/renderdragon-logo-small.png',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/devendrn/renderdragon-shaders' }
+      { icon: 'github', link: 'https://github.com/lonelyang/renderdragon-apk' }
     ],
     search: { provider: 'local' },
   },
   locales: {
-    root: { label: 'English', lang: 'en', ...enConfig },
-    ko: { label: '한국어', lang: 'ko', ...koConfig }
+    root: { label: '简体中文', lang: 'zh', ...zhConfig },
+    en: { label: 'English', lang: 'en', ...enConfig }
   },
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: `renderdragon-logo-small.png` }]

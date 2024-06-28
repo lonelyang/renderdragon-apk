@@ -1,73 +1,73 @@
-# Installation on iOS
+# 在 iOS 上安装
 
-## Using Filza
+## 使用 Filza
 
-::: warning Jailbreak required
-Jailbreak is required to access and modify Minecraft game files. If you don't have a jailbroken device, then follow [modified IPA method](#using-modified-ipa).
+::: warning 需要越狱
+访问和修改 Minecraft 游戏文件需要越狱.如果您的设备尚未越狱, 请遵循 [modified IPA method](#using-modified-IPA) 方法.
 :::
 
 <YTEmbed url="https://www.youtube.com/embed/WS_xEI4xOJ4?si=rndA8K0Ss8i2Lg9I&amp;start=150" aspect="1.78"/>
 
-1. First, install [Filza](https://filzadownload.com/). 
-2. Go to `var\containers\Bundle\Application\Minecraft\minecraftpe.app\data\renderer\materials`.
-3. Back up the `materials` folder. If you don't do this you will be unable to remove the shader after.
-4. Select material files of the shader pack, and copy them.
-5. Go back to the previous location and replace the material.bin files with the copied shader files.
+1. 首先, 安装 [Filza](https://filzadownload.com/).
+2. 进入 `var\containers\Bundle\Application\Minecraft\minecraftpe.app\data\renderer\materials`.
+3. 备份 `materials` 文件夹.如果不这样做, 你将无法删除着色器.
+4. 选择着色器包中的材质文件并复制它们.
+5. 返回之前的位置, 用复制的着色器文件替换 material.bin 文件.
 
-To remove the shader, just copy and paste the old material.bin files you backed up to that location.
+要删除着色器, 只需将备份的旧 material.bin 文件复制并粘贴到该位置即可.
 
-## Using Modified IPA
+## 使用修改后的 IPA
 
-In this method, you have to first extract the Minecraft IPA and replace its material.bin files with the ones inside the shader pack. Then you need to sideload the modified IPA. 
+在此方法中, 你必须首先解压缩 Minecraft IPA, 并用着色器包内的文件替换其 material.bin 文件.然后, 您需要侧载修改后的 IPA.
 
-::: info No online multiplayer
-Sideloaded Minecraft IPA does not support online multiplayer. There are workarounds to get it working though, but you have to find those out yourself.  
+::: info 无在线多人游戏
+侧载的 Minecraft IPA 不支持在线多人游戏.不过有一些变通方法可以让它正常工作, 但你必须自己找出这些方法. 
 :::
 
-### Extracting IPA
+### 提取 IPA
 
-**1. On Windows, you can use iMazing for IPA extraction. Here's how:**
-1. First, install [iMazing](https://imazing.com/?gad=1&gclid=Cj0KCQjwoK2mBhDzARIsADGbjeoNt1rkkKWWJVaawEFnsUmV3QjthBa3UjxAL7h_cefyqWyxDuxRis8aAvGIEALw_wcB).
-2. Connect your iPhone to the PC via USB.
-3. Once iMazing is installed, click "Continue with the Free Trial" and go to App Management.
-4. Right-click on Minecraft and click "Install .IPA".
-5. After extracting the IPA, open the file using a program like Bandizip (or any program that can handle compressed files).
-6. Navigate to `Payload\minecraft.app\data\renderer\materials`.
-7. Replace the existing material.bin shader file with the downloaded material.bin shader file.
-8. Finally, sideload Minecraft back onto your device.
+**1. 在 Windows 系统中, 你可以使用 iMazing 提取 IPA.具体方法如下:** 
+1. 首先, 安装 [iMazing](https://imazing.com/?gad=1&gclid=Cj0KCQjwoK2mBhDzARIsADGbjeoNt1rkkKWWJVaawEFnsUmV3QjthBa3UjxAL7h_cefyqWyxDuxRis8aAvGIEALw_wcB).
+2. 通过 USB 将 iPhone 连接到电脑.
+3. 安装好 iMazing 后, 点击 "继续免费试用", 然后进入 "应用程序管理".
+4. 右键单击 Minecraft 并点击 "安装 .IPA".
+5. 解压缩后, 使用 Bandizip 等程序(或任何可以处理压缩文件的程序)打开文件.
+6. 导航至 `Payload\minecraft.app\data\renderer\materials`.
+7. 用下载的 material.bin 着色器文件替换现有的 material.bin 着色器文件.
+8. 最后, 将威廉与重新加载到您的设备上.
 
-**2. On iOS:**
-1. Install ES File Explorer from AppStore.
-2. Find and download Minecraft IPA online.
-3. Use ES File Explorer to change `.ipa` extension to `.zip` extension.
-4. Extract the `.zip` file.
-5. Download the iOS material.bin files of the shader you wish to install.
-6. Copy paste the material.bin files to location `/Payload/minecraft.app/data/renderer/materials` inside the extracted folder.
-7. Zip the Payload folder.
-8. Rename `Payload.zip` to `Payload.ipa`.
-9. Now sideload this modified IPA onto your device.
+**2. 在 iOS 上:**
+1. 从 AppStore 安装 ES File Explorer.
+2. 查找并在线下载 Minecraft IPA.
+3. 使用 ES File Explorer 将`.ipa`扩展名更改为`.zip`扩展名.
+4. 解压缩`.zip`文件.
+5. 下载要安装的着色器的 iOS material.bin 文件.
+6. 将 material.bin 文件复制粘贴到解压缩文件夹内的 `/Payload/minecraft.app/data/renderer/materials` 位置.
+7. 压缩 Payload 文件夹.
+8. 将 `Payload.zip` 重命名为 `Payload.ipa`.
+9. 现在将修改后的 IPA 附带加载到你的设备上.
 
-### Sideloading IPA
+### 非官方安装 IPA
 
-**1. Using sideloading tools on PC**  
+**1. 在电脑上使用非官方安装工具**  
 
-Users with access to an external PC can use sideloading tools like:
+可以访问外部 PC 的用户可以使用以下侧载工具:
 * [AltStore](https://altstore.io)
 * [Sideloadly](https://sideloadly.io)
 
-Please refer to the respective instructions provided by each sideloading tool for the installation process.
+有关安装过程, 请参阅各副加载工具提供的相应说明.
 
-**2. Using Scarlet on iOS**  
+**2. 在 iOS 上使用 Scarlet**  
 
-::: danger Not verified
-The following method is unverified and may have issues. We suggest you to follow it at your own risk.
+::: danger 未经验证
+以下方法未经验证, 可能存在问题.建议您自行承担风险.
 :::
 
-1. Go to https://usescarlet.com/
-2. Scroll down and then click Install. Make sure to click Direct install!
-3. After installing it, go to `Settings General Device and Management`. You’ll find the certificate there. Click on it and then click `Trust certificate`.
-4. After trusting the certificate, go to the app, go to the second option on the bottom, and then click the share button on the top right. Find the IPA that you’ve just installed and click it. 
-5. It should begin downloading shortly.
-6. After it installs you can successfully open Minecraft.
+1. 访问 https://usescarlet.com/
+2. 向下滚动, 然后点击安装.确保点击直接安装！
+3. 安装后, 进入 "设置 常规 设备和管理".你会在那里找到证书.点击它, 然后点击 "信任证书".
+4. 信任证书后, 进入应用程序, 转到底部的第二个选项, 然后点击右上角的共享按钮.找到刚刚安装的 IPA 并点击它.
+5. 很快就会开始下载.
+6. 安装完成后, 您就可以成功打开 Minecraft 了.
 
-> On iOS 16 or higher you will need to figure out how to trust a profile in a different way.
+> 在 iOS 16 或更高版本中, 您需要了解如何以不同方式信任配置文件.

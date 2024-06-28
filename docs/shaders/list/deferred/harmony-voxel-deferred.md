@@ -1,7 +1,7 @@
 ---
 name: 'Harmony Voxel Deferred'
 tags: ['Android']
-banner: '/renderdragon-shaders/images/harmony-voxel-deferred-0.jpg'
+banner: '/renderdragon-apk/images/harmony-voxel-deferred-0.jpg'
 last_updated: 2023-11-15
 ---
 
@@ -9,22 +9,22 @@ last_updated: 2023-11-15
 
 <Gallery
 :images="[
-  '/renderdragon-shaders/images/harmony-voxel-deferred-0.jpg',
-  '/renderdragon-shaders/images/harmony-voxel-deferred-1.jpg',
-  '/renderdragon-shaders/images/harmony-voxel-deferred-2.jpg'
+  '/renderdragon-apk/images/harmony-voxel-deferred-0.jpg',
+  '/renderdragon-apk/images/harmony-voxel-deferred-1.jpg',
+  '/renderdragon-apk/images/harmony-voxel-deferred-2.jpg'
   ]"
 />
 
-### Description
+### 说明
 
-Harmony Voxel Deferred aims to be a mixture of fantasy and some realism.
+Harmony Voxel Deferred 旨在成为幻想和现实主义的混合体.
 
-* Supported platforms: Android
-* Website: [magnificentshaders.home.blog/](https://magnificentshaders.home.blog/2023/12/24/harmony-voxel-deferred-v0-1-2/)
+* 支持的平台: Android
+* 网站: [magnificentshaders.home.blog/](https://magnificentshaders.home.blog/2023/12/24/harmony-voxel-deferred-v0-1-2/)
 
-### Download
+### 下载
 
-**Supported versions:** Minecraft Preview 1.20.50.20+
+**支持的版本:** Minecraft Preview 1.20.50.20+
 
 ::: tip v0.1.2
 

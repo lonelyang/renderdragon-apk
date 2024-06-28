@@ -1,25 +1,25 @@
-# Installation on Linux
+# 在 Linux 上安装
 
-This guide is for the unofficial Minecraft Bedrock Launcher on Linux, [mcpelauncher-manifest](https://github.com/minecraft-linux/mcpelauncher-manifest). You can use Android versions of the shader in this launcher.
+本指南适用于 Linux 上的非官方 Minecraft Bedrock 启动器 [mcpelauncher-manifest](https://github.com/minecraft-linux/mcpelauncher-manifest).您可以在此启动器中使用 Android 版本的着色器.
 
-## Manual method
+## 手动方法
 
-**Adding shader:**  
+**添加着色器:**  
 
-1. Download the Android version of the shader
-2. Extract material.bin files from shader mcpack. You can find them inside `/assets/renderer/materials/`
-3. Copy these files to the materials directory inside the data root:
+1. 下载 Android 版本的着色器
+2. 从着色器mcpack中提取material.bin文件.你可以在`/assets/renderer/materials/`中找到它们.
+3. 将这些文件复制到数据根目录下的材料目录:
 
-::: warning Backup required!
-Make sure to backup all original files in the following directory first. Otherwise, you will not be able to revert back to vanilla graphics.
+::: warning 需要备份！
+确保先备份以下目录中的所有原始文件.否则您将无法还原为原版着色器.
 :::
 
 ```
 mcpelauncher/versions/1.20.x/assets/renderer/materials/
 ```
-You can find your data root location from Launcher Settings > Storage.
+您可以从 "启动器设置">"存储" 找到您的数据根目录.
 
-4. Some shaders include extra assets. In that case, you also have to import the resource pack or add it to your resource pack directory.
+4. 有些着色器包含额外的资产.在这种情况下, 您还必须导入资源包或将其添加到资源包目录中.
 
-**Removing shader:**  
-If you want to revert back to vanilla graphics, just copy-paste the old files you backed up, to the materials directory of your data root.
+**删除着色器:**  
+如果您想恢复到原版着色器, 只需将备份的旧文件复制粘贴到数据根目录下的材质目录即可.

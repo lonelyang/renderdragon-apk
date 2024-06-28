@@ -1,8 +1,8 @@
-# Installation
+# 安装
 
-Because Minecraft does not officially support third-party RenderDragon shaders, you have to use some tools to install these shaders. 
+由于 Minecraft 不正式支持第三方 RenderDragon 着色器,因此您必须使用一些工具来安装这些着色器. 
 
-See the installation guide for your platform:
+请参阅适用于您平台的安装指南:
 
 * [Android](android)
 * [Windows](windows)

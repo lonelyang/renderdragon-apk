@@ -1,7 +1,7 @@
 ---
 name: 'YSS RD'
 tags: ['Android', 'Windows', 'iOS', 'Xbox']
-banner: '/renderdragon-shaders/images/yss-rd-0.jpg'
+banner: '/renderdragon-apk/images/yss-rd-0.jpg'
 last_updated: 2024-01-21
 ---
 
@@ -9,25 +9,25 @@ last_updated: 2024-01-21
 
 <Gallery 
 :images="[
-  '/renderdragon-shaders/images/yss-rd-0.jpg',
-  '/renderdragon-shaders/images/yss-rd-1.jpg',
-  '/renderdragon-shaders/images/yss-rd-2.jpg',
-  '/renderdragon-shaders/images/yss-rd-3.jpg',
-  '/renderdragon-shaders/images/yss-rd-4.jpg'
+  '/renderdragon-apk/images/yss-rd-0.jpg',
+  '/renderdragon-apk/images/yss-rd-1.jpg',
+  '/renderdragon-apk/images/yss-rd-2.jpg',
+  '/renderdragon-apk/images/yss-rd-3.jpg',
+  '/renderdragon-apk/images/yss-rd-4.jpg'
   ]"
 />
 
-### Description
+### 说明
 
-One of the earliest RenderDragon shader. 
+最早的 RenderDragon 着色器之一.
 
-* Website: [yss.minecraft.pe](https://yss.minecraft.pe/)
-* Supported platforms: Android, Windows, iOS, Xbox
+* 网站: [yss.minecraft.pe](https://yss.minecraft.pe/)
+* 支持的平台: Android, Windows, iOS, Xbox
 * Discord server: [Years Static Shader Group](https://discord.gg/yss)
 
-### Download
+### 下载
 
-Supported Minecraft versions: 1.20.0+
+**支持的版本:** Minecraft versions: 1.20.0+
 
 ::: tip v1.9.8
 * [Android/Windows/iOS/Xbox - Link 1](https://yss.minecraft.pe/YSS_RD/YSS_RD_1.9.8.mcpack)

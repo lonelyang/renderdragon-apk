@@ -1,7 +1,7 @@
 ---
 name: 'Bicubic Shaders BE'
 tags: ["Android", "Windows"]
-banner: '/renderdragon-shaders/images/bsbe-0.jpg'
+banner: '/renderdragon-apk/images/bsbe-0.jpg'
 last_updated: 2023-11-22
 ---
 
@@ -9,23 +9,23 @@ last_updated: 2023-11-22
 
 <Gallery
 :images="[
-  '/renderdragon-shaders/images/bsbe-0.jpg',
+  '/renderdragon-apk/images/bsbe-0.jpg',
   ]"
 />
 
-### Description
+### 说明
 
-Bicubic Shaders BE or BSBE is a shader that aims to have beautiful look with colorful tone and many visual features.
-It features fluffy clouds, sky gradient, vibrant color tone, dynamic diffuse and ambient light, water wave, sky and clouds reflection on water, lightmap based shadow, underwater caustics.
+Bicubic Shaders BE 或 BSBE 是一种shader, 旨在拥有具有丰富多彩的色调和许多视觉特征的美丽外观.
+它具有蓬松的云朵, 天空渐变, 鲜艳的色调, 动态漫射光和环境光, 水波, 天空和云在水面上的反射, 基于光照贴图的阴影, 水下焦散.
 
 * Source code: [Bicubic-Shaders-BE](https://github.com/bambosan/Bicubic-Shaders-BE)
 * License: MIT License
-* Supported platforms: Android, Windows
-* Website: [bambosan.github.io/bsbe/](https://bambosan.github.io/bsbe/)
+* 支持的平台: Android, Windows
+* 网站: [bambosan.github.io/bsbe/](https://bambosan.github.io/bsbe/)
 
-### Downloads
+### 下载
 
-Supported Minecraft versions: 1.20.15+
+**支持的版本:** Minecraft versions: 1.20.15+
 
 ::: tip v3.4
 

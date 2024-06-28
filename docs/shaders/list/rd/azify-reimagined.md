@@ -1,7 +1,7 @@
 ---
 name: 'AziFy Reimagined'
 tags: ["Android"]
-banner: '/renderdragon-shaders/images/azify-reimagined-0.jpg'
+banner: '/renderdragon-apk/images/azify-reimagined-0.jpg'
 last_updated: 2023-11-17
 ---
 
@@ -9,23 +9,23 @@ last_updated: 2023-11-17
 
 <Gallery
 :images="[
-    '/renderdragon-shaders/images/azify-reimagined-0.jpg',
-    '/renderdragon-shaders/images/azify-reimagined-1.jpg',
-    '/renderdragon-shaders/images/azify-reimagined-2.jpg',
+    '/renderdragon-apk/images/azify-reimagined-0.jpg',
+    '/renderdragon-apk/images/azify-reimagined-1.jpg',
+    '/renderdragon-apk/images/azify-reimagined-2.jpg',
     ]"
 />
 
-### Description
+### 说明
 
 
-Azify Reimagined shader combines performance with good visual enhancements, ensuring a seamless and captivating gameplay experience for all Minecraft enthusiasts.
+Azify Reimagined 着色器将性能与良好的视觉增强相结合, 确保为所有 Minecraft 爱好者提供无缝且引人入胜的游戏体验.
 
-* Supported platforms: Android
-* Website: [aziangeloprojects.blogspot.com/azify-reimagined](https://aziangeloprojects.blogspot.com/2024/01/azify-reimagined-v21.html)
+* 支持的平台: Android
+* 网站: [aziangeloprojects.blogspot.com/azify-reimagined](https://aziangeloprojects.blogspot.com/2024/01/azify-reimagined-v21.html)
 
-### Downloads
+### 下载
 
-Supported Minecraft versions: 1.20+
+**支持的版本:** Minecraft versions: 1.20+
 
 ::: tip v2.1
 

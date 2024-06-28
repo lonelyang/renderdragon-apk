@@ -1,7 +1,7 @@
 ---
 name: 'Origin Shader Deferred'
 tags: ['Android', 'Windows']
-banner: '/renderdragon-shaders/images/origin-shader-deferred-0.jpg'
+banner: '/renderdragon-apk/images/origin-shader-deferred-0.jpg'
 last_updated: 2023-10-13
 ---
 
@@ -9,22 +9,22 @@ last_updated: 2023-10-13
 
 <Gallery
 :images="[
-  '/renderdragon-shaders/images/origin-shader-deferred-0.jpg',
-  '/renderdragon-shaders/images/origin-shader-deferred-1.jpg'
+  '/renderdragon-apk/images/origin-shader-deferred-0.jpg',
+  '/renderdragon-apk/images/origin-shader-deferred-1.jpg'
   ]"
 />
 
-### Description
+### 说明
 
-A fork of [Origin Shader](https://github.com/bWFuanVzYWth/OriginShader), which extends to provide a deferred rendering preview version. This fork was not created by the original developer of Origin Shader.
+[Origin Shader](https://github.com/bWFuanVzYWth/OriginShader) 的一个分支, 它扩展为提供延迟渲染预览版本.此分支不是由 Origin Shader 的原始开发人员创建的.
 
 * Source code: [OriginShaderDeferred](https://github.com/luit04/OriginShaderDeferred)
 * License: GPL-3
-* Supported platforms: Android, Windows
+* 支持的平台: Android, Windows
 
-### Download <Badge type="warning" text="Discontinued" />
+### 下载 <Badge type="warning" text="停用" />
 
-**Supported versions:** Minecraft Preview 1.20.50.20+ 
+**支持的版本:** Minecraft Preview 1.20.50.20+ 
 
 ::: tip 0.0.2
 

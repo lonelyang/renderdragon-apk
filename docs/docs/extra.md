@@ -1,9 +1,9 @@
-# Extra resources
+# 补充内容
 
-This page will include random things that might be useful to a small niche of users.
+这个页面将包含一些可能对一小部分用户有用的技巧.
 
 
-## Unpack data from material.bin {#unpack-data}
+## 使用 material.bin 解包数据 {#unpack-data}
 
 ::: code-group
 ```sh [Windows]
@@ -14,15 +14,15 @@ java -jar ./MaterialBinTool.jar --data-only -u "material.bin files to unpack"
 ```
 :::
 
-You can find material.bin files inside `<minecraft data path>/assets/renderer/materials`
+你可以在游戏文件内部找到 material.bin 文件. `<minecraft data path>/assets/renderer/materials`
 
 
-## Merged material data {#merged-data}
+## 合并material数据 {#merged-data}
 
-Material data from multiple platforms can be merged into a single data file and then be used to compile materials that will work on all platforms that were included in the merge.
-Keep in mind that the final material.bin file will be quite large.
+来自多个平台的material.json可以合并到一个数据文件中, 然后用于编译material.bin, 这些material.bin可以在合并后的多个平台上使用.
+请注意, 最终的 material.bin 文件将相当大. 
 
-To merge material data using the MBT, run:
+要使用 MBT 合并material.json, 请运行:
 ::: code-group
 ```sh [Windows]
 .\MaterialBinTool.exe --data-only -o "output dir" -m "material.json files of each platform"
@@ -32,9 +32,9 @@ java -jar ./MaterialBinTool-all.jar --data-only -o "output dir" -m "material.jso
 ```
 :::
 
-This will only work if the material.json files are all from the same version of MC.
+只有当要合并所有的 material.json 文件都来自不同平台的同一版本的 MC 时, 该功能才会起作用.
 
-Here is a bash script to do multiple files in the following structure:
+下面是一个 bash 脚本, 可按以下文件结构处理多个文件:
 ```
 Android
 └─ RenderChunk
@@ -57,4 +57,4 @@ for s in $MATERIALS; do
 done
 ```
 
-To use these, copy the `Merged/` directory to `data/`, and add the argument `-p Merged` when building.
+要使用它们, 请将 `Merged/` 目录复制到 `data/`, 并在构建时添加参数 `-p Merged`.

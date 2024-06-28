@@ -31,10 +31,10 @@ It also extends by providing documentation and resources on making custom shader
 📂 docs
 ├─📂 .vitepress
 │  └─📂 locales
-│     ├─📄 en.ts
-│     └─📄 ko.ts     🡠 Korean version of en.ts
+│     ├─📄 zh.ts
+│     └─📄 en.ts     🡠 en version of zh.ts
 ├─📂 public          🡠 Images
-├─📂 ko              🡠 Korean version of pages
+├─📂 en              🡠 en version of pages
 ├─📂 docs            🡠 RD docs
 ├─📂 shaders
 │  ├─📂 installation 🡠 Installation guides

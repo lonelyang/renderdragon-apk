@@ -1,7 +1,7 @@
 ---
 name: 'Newb X Legacy'
 tags: ["Android", "Windows", "iOS"]
-banner: '/renderdragon-shaders/images/newb-shader-0.jpg'
+banner: '/renderdragon-apk/images/newb-shader-0.jpg'
 last_updated: 2023-09-06
 ---
 
@@ -9,26 +9,26 @@ last_updated: 2023-09-06
 
 <Gallery
 :images="[
-    '/renderdragon-shaders/images/newb-shader-0.jpg',
-    '/renderdragon-shaders/images/newb-shader-1.jpg',
-    '/renderdragon-shaders/images/newb-shader-2.jpg',
-    '/renderdragon-shaders/images/newb-shader-3.jpg',
+    '/renderdragon-apk/images/newb-shader-0.jpg',
+    '/renderdragon-apk/images/newb-shader-1.jpg',
+    '/renderdragon-apk/images/newb-shader-2.jpg',
+    '/renderdragon-apk/images/newb-shader-3.jpg',
     ]"
 />
 
-### Description
+### 说明
 
-Newb X Legacy is an enhanced vanilla shader based on the theme "lightweight and soft aesthetics"
+Newb X Legacy 是一款基于"轻量级和柔和美学"主题的增强原版着色器
 
 * Source code: [newb-x-mcbe](https://github.com/devendrn/newb-x-mcbe)
 * License: MIT License
-* Supported platforms: Android, Windows, iOS
+* 支持的平台: Android, Windows, iOS
 * Discord server: [Newb Community](https://discord.gg/newb-community-844591537430069279)
-* Website: [devendrn.github.io/newb-shader/](https://devendrn.github.io/newb-shader/)
+* 网站: [devendrn.github.io/newb-shader/](https://devendrn.github.io/newb-shader/)
 
-### Download
+### 下载
 
-Supported Minecraft versions: 1.20.15+
+**支持的版本:** Minecraft versions: 1.20.15+
 
 ::: tip v15.0
 
@@ -40,6 +40,6 @@ Supported Minecraft versions: 1.20.15+
 
 ## Newb Variants
 
-Since Newb X Legacy is open source, there are many variations made by users. You can find those in their Discord server.
+由于Newb X Legacy是开源的, 因此用户进行了许多更改.您可以在他们的 Discord 服务器中找到这些.
 
 TODO - add variants

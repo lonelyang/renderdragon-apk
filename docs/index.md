@@ -2,15 +2,18 @@
 layout: home
 
 hero:
-  name: "RenderDragon Shaders"
+  name: "RenderDragon APK"
   text: "for MCBE"
-  tagline: An unofficial curated list and documentation about RenderDragon Shaders
+  tagline: 关于 Render Dragon 的非官方 Patched Apk 列表
   actions:
     - theme: brand
-      text: Explore shaders
+      text: 下载 APK
+      link: ./apk/start
+    - theme: alt
+      text: 探索光影
       link: ./shaders/start
     - theme: alt
-      text: Docs
+      text: 文档
       link: ./docs/start
   image:
     src: /renderdragon-logo.webp
@@ -19,15 +22,15 @@ hero:
 features:
   - icon: 📃
     title: Shaders
-    details: Community-sourced list of RenderDragon shaders for MCBE
+    details: 来自社区的 MCBE RenderDragon 着色器列表
   - icon: 🛠️
     title: Documentation
-    details: Unofficial documentation about building RenderDragon shaders
+    details: 关于构建 RenderDragon 着色器的非官方文档
   - icon: 📝
     title: Open Source
-    details: Edits and contributions made by community members
+    details: 社区成员所做的编辑和贡献
   - icon: 🚀
     title: Uses VitePress
-    details: Simple, powerful, and fast modern SSG framework
-  
+    details: 简单, 强大, 快速的现代 SSG 框架
+
 ---

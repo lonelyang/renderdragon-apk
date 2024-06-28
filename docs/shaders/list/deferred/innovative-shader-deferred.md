@@ -1,7 +1,7 @@
 ---
 name: 'Innovative Shader Deferred'
 tags: ['Android']
-banner: '/renderdragon-shaders/images/innovative-shader-deferred-0.jpg'
+banner: '/renderdragon-apk/images/innovative-shader-deferred-0.jpg'
 last_updated: 2023-11-20
 ---
 
@@ -9,22 +9,22 @@ last_updated: 2023-11-20
 
 <Gallery
 :images="[
-  '/renderdragon-shaders/images/innovative-shader-deferred-0.jpg',
-  '/renderdragon-shaders/images/innovative-shader-deferred-1.jpg',
-  '/renderdragon-shaders/images/innovative-shader-deferred-2.jpg'
+  '/renderdragon-apk/images/innovative-shader-deferred-0.jpg',
+  '/renderdragon-apk/images/innovative-shader-deferred-1.jpg',
+  '/renderdragon-apk/images/innovative-shader-deferred-2.jpg'
   ]"
 />
 
-### Description
+### 说明
 
-Innovative Shader Deferred aims to be a mixture of fantasy and some realism.
+创新的 Shader Deferred 旨在成为幻想和一些现实主义的混合体.
 
-* Supported platforms: Android
-* Website: [magnificentshaders.home.blog/](https://magnificentshaders.home.blog/2023/12/24/innovative-shader-deferred-v1-0-2/)
+* 支持的平台: Android
+* 网站: [magnificentshaders.home.blog/](https://magnificentshaders.home.blog/2023/12/24/innovative-shader-deferred-v1-0-2/)
 
-### Download
+### 下载
 
-**Supported versions:** Minecraft Preview 1.20.50.20+
+**支持的版本:** Minecraft Preview 1.20.50.20+
 
 ::: tip Test version
 

@@ -1,7 +1,7 @@
 ---
 name: 'BSBE Deferred'
 tags: ['Windows']
-banner: '/renderdragon-shaders/images/bsbe-deferred-0.jpg'
+banner: '/renderdragon-apk/images/bsbe-deferred-0.jpg'
 last_updated: 2023-11-19
 ---
 
@@ -9,24 +9,24 @@ last_updated: 2023-11-19
 
 <Gallery
 :images="[
-  '/renderdragon-shaders/images/bsbe-deferred-0.jpg'
+  '/renderdragon-apk/images/bsbe-deferred-0.jpg'
   ]"
 />
 
-### Description
+### 说明
 
-Features PCF shadows, bloom, sky gradient, sky based fog and lighting, screen-space god rays and so on.
+具有 PCF 阴影, 光晕, 天空渐变, 基于天空的雾和照明, 屏幕空间上帝光线等.
 
 * Source code: [BSBE-Deferred](https://github.com/bambosan/BSBE-Deferred)
 * License: MIT License
-* Supported platforms: Windows
-* Website: [bambosan.github.io/bsbe-deferred/](https://bambosan.github.io/bsbe-deferred/)
+* 支持的平台: Windows
+* 网站: [bambosan.github.io/bsbe-deferred/](https://bambosan.github.io/bsbe-deferred/)
 
-### Download <Badge type="danger" text="Beta" />
+### 下载 <Badge type="danger" text="Beta" />
 
-**Supported versions:**  
-For full features: Minecraft Preview 1.20.50.20 - 1.20.60.20  
-No rain shading: Minecraft Preview 1.20.30.25 - 1.20.40.24
+**支持的版本:**  
+完整功能: Minecraft Preview 1.20.50.20 - 1.20.60.20  
+无雨天阴影: Minecraft Preview 1.20.30.25 - 1.20.40.24
 
 ::: tip 1.1.0 Beta
 

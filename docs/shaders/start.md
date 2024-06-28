@@ -1,20 +1,19 @@
-# RenderDragon Shaders List
+# 渲染龙光影列表
 
-Minecraft Bedrock does not officially support loading third-party RenderDragon shaders.
-Please see the [installation guide](installation/start) for instructions on how to use/install these shaders.
+Minecraft Bedrock 原版不支持加载第三方 RenderDragon 着色器.
+请参阅 [安装指南](installation/start) 有关如何使用或安装这些着色器的说明.
 
-## RenderDragon Shaders
+## 渲染龙光影
 
 ![RenderDragon Shaders Banner](/banner-rd-shaders.jpg)
 
-A curated list of shaders for RenderDragon.
+渲染龙光影的精选列表.
 
-### [🡪 Explore shaders](list/rd)
+### [🡪 探索光影](list/rd)
 
-## Deferred Pipeline Shaders <Badge type="danger" text="Experimental"/>
+## 延迟渲染光影 <Badge type="danger" text="实验性"/>
 ![RenderDragon Shaders Banner](/banner-deferred-shaders.jpg)
 
-A curated list of shaders for the deferred pipeline of RenderDragon.
-To use these shaders, you must be on the latest Minecraft (beta).
+渲染龙延迟渲染光影的精选列表.
 
-### [🡪 Explore deferred shaders](list/deferred)
+### [🡪 探索延迟渲染光影](list/deferred)
